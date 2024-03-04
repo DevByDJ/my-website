@@ -1,7 +1,9 @@
 <script>
     import Home from "../components/Home.svelte";
-    import Education from "../components/Education.svelte";
+    import Experience from "../components/Experience.svelte";
+    import Skills from "../components/Skills.svelte";
 </script>
 
 <Home />
-<Education />
+<Experience />
+<Skills />

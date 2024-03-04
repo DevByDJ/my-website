@@ -10,8 +10,8 @@
 
     <nav class="navbar">
         <a href="#home" class="active">Home</a>
-        <a href="#education" class="active">Education</a>
-        <a href="#services" class="active">Services</a>
+        <a href="#experience" class="active">Experience</a>
+        <a href="#skills" class="active">Skills</a>
         <a href="#testimonials" class="active">Testimonials</a>
         <a href="#contact" class="active">Contact</a>
     </nav>
