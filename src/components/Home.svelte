@@ -25,7 +25,7 @@
     </div>
 
         <div class="home-img">
-            <img src="favicon.png" alt="">
+            <img src="profile-photo.jpg" alt="">
         </div>
 
 </section>
